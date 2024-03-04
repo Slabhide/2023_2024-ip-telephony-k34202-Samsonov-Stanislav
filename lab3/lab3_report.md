@@ -56,8 +56,7 @@ exten => _XXXX,1,Dial(SIP/${EXTEN})
 
 2. Для применения настроек Asterisk был перезагружен:
 ```
-sudo astrisk -r
-relad
+sudo service asterisk restart
 ```
 3. Далее была выполнена проверка созданных подключений:
 ```
