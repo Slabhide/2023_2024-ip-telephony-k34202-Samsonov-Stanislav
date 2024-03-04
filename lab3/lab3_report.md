@@ -65,11 +65,11 @@ sip show peer
 ### Установка Zoiper и MicroSIP
 
 Далее в качестве soft-телефона с официального сайта был установлен Zoiper.
-![.]()  
+![.](https://github.com/Slabhide/2023_2024-ip-telephony-k34202-Samsonov-Stanislav/blob/main/lab3/img/1.jpg)  
 Далее была произведена настройка MicroSIP:
-![.]()  
+![.](https://github.com/Slabhide/2023_2024-ip-telephony-k34202-Samsonov-Stanislav/blob/main/lab3/img/2.jpg)  
 Для проверки успешной настройки связи был совершен звонок на телефон 1000 с телефона 1001. Как видно, соединение было установлено, на экране виден номер звонящего телефона:
-![.]()  
+![.](https://github.com/Slabhide/2023_2024-ip-telephony-k34202-Samsonov-Stanislav/blob/main/lab3/img/3.jpg)  
 ## Вывод 
 В ходе лабораторной работы был настроен Asterisk для локальных звонков, в результате чего успешно установлена связь между софтфонами.
 
