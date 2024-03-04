@@ -4,7 +4,8 @@ Course: [IP-telephony](https://github.com/itmo-ict-faculty/ip-telephony)
 Year: 2023/2024  
 Group: K34202  
 Author: Samsonov Stanislav
-Lab: Lab2  
+
+Lab: Lab3
 Date of create: 04.03.2024  
 Date of finished: - 
 
